@@ -37,6 +37,7 @@ a {
     color: var(--text-color);
     font-family: initial !important;
     font-size: initial !important;
+    line-height: initial !important;
 }
 
 .visually-hidden {
