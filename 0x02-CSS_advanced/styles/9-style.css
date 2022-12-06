@@ -34,9 +34,9 @@ body {
 }
 
 a {
-    color: initial !important;
-    font-family: initial !important;
-    font-size: initial !important;
+    color: initial;
+    font-family: initial;
+    font-size: initial;
 }
 
 .visually-hidden {
