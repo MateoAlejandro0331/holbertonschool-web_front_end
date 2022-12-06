@@ -34,10 +34,8 @@ body {
 }
 
 a {
-    color: initial;
-    font-family: initial;
-    font-size: initial;
-    line-height: initial;
+    color: var(--text-color);
+    text-decoration: none;
 }
 
 .visually-hidden {
