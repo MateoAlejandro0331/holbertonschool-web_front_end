@@ -539,7 +539,7 @@ a:active {
 ul .row {
     margin: 0;
     padding: 0;
-    list-style: none;
+    list-style-type: none;
 }
 
 .col-1-3 {
