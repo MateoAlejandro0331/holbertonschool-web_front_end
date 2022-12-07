@@ -543,9 +543,8 @@ ul.row {
 }
 
 .row::after {
-    content: none;
     display: table;
-    clear: both;
+    clear: none;
 }
 
 .col-1-3 {
