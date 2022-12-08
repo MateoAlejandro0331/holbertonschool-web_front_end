@@ -458,7 +458,7 @@ a:active {
 .social-link {
     display: block;
 }
-.social-link svg {
+.social-link > svg {
     color: var(--text-color)
 }
 /*Diferents Classes Seccion*/
@@ -603,5 +603,4 @@ h6 {
 
 .footer-address {
     color: var(--text-color)
-
 }
