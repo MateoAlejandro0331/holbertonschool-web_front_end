@@ -376,7 +376,6 @@ ul.row {
     list-style: none;
 }
 
-
 [class*='col-'] {
     padding: 0.5rem;
 }
@@ -558,10 +557,10 @@ ul.row {
     padding: 10rem 40rem 2rem 0;
 }
 
-/* Section Latest news 
+/* Section Latest news
       ============================= */
 
-.seletion-latest-news .row {
+.section-latest-news .row {
     flex-direction: row-reverse;
 }
 
