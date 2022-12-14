@@ -386,7 +386,6 @@ ul.row {
 /* Navbar
       ============================= */
 
-
 .nav {
     margin: 0;
     padding: 0;
@@ -433,16 +432,16 @@ ul.row {
 /* Header
       ============================= */
 
-.header-container {
-    display: flex;
-    justify-content: space-between;
-}
-
 .header {
     padding: var(--header-padding);
     position: relative;
     z-index: 3;
     background: transparent;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
 }
 
 
@@ -544,8 +543,7 @@ ul.row {
     padding: 10rem 40rem 2rem 0;
 }
 
-/* Section Latest news
-      ============================= */
+/* Section Latest news ============================= */
 
 .section-latest-news .row {
     flex-direction: row-reverse;
