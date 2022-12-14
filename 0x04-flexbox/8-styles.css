@@ -547,7 +547,7 @@ ul.row {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     min-height: 50vh;
 }
 
