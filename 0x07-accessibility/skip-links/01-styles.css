@@ -381,11 +381,12 @@ a:active {
 }
 
 .skip-link {
-    background: var(--color-white);
+    background: var(--color-black);
     color: var(--color-white);
     left: 0;
     padding: .7rem;
     position: fixed;
+    opacity: 0;
     top: 0;
     z-index: 10;
     transform: translateY(-1rem);
